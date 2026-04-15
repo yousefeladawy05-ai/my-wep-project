@@ -109,6 +109,13 @@ form{
     display: flex;
     flex-direction: column;
     gap: 15px;
+    max-wadth:500px;
+    margin:0 auto;
+    background:#fff;
+    padding:20px;
+    porder-rradius:10px;
+    box-shadow :0 4px 10px rgpa(0,0,0,0.1)
+    
 }
 input,textarea,select{
     padding: 12px;
