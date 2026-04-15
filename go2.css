@@ -61,7 +61,7 @@ main{
 }
 section{
     background: beige;
-    padding: 2rem;
+    padding: 20px;
     border-radius:20px ;
     box-shadow: 0 10px rgba(0,0,0,0.3);
     width: 100%;
@@ -82,6 +82,7 @@ h1,h2{
 }
 table{
     width:70%%;
+    table-layout:fixed;
     border-collapse:collapse;
     margin-top: 1rem;
     overflow:hidden;
@@ -91,7 +92,7 @@ table{
 th{
     background-color: #63b2e7;
     color: rgb(4, 61, 78);
-    padding: 15px;
+    padding:12px 15px;
     text-align: left;
 
 }
