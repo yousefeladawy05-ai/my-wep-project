@@ -118,6 +118,8 @@ form{
     
 }
 input,textarea,select{
+     width:70px;
+        
     padding: 12px;
     border: 1px solid beige;
     border-radius: 8px;
