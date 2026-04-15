@@ -76,6 +76,10 @@ h1,h2{
     border-radius:10px ;
     text-transform: capitalize;
 }
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
 table{
     width:100%;
     border-collapse:collapse;
